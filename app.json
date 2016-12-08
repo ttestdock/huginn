@@ -12,9 +12,7 @@
         "PROCFILE_PATH": "deployment/heroku/Procfile.heroku",
         "ON_HEROKU": "true",
         "FORCE_SSL": "true",
-        "INVITATION_CODE": {
-            "generator": "secret"
-        },
+        "INVITATION_CODE": "huginn",
         "USE_GRAPHVIZ_DOT": "dot"
     },
     "scripts": {
